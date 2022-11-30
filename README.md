@@ -1,6 +1,6 @@
 # Analog Circuits EE3300
 ## Mini Project 1:
-    The Extraction simple quadratic model of BISM Model 65nm CMOS MOSFETS i.e. parameters like small signal gain ,channel length modulation.
+    The Extraction of simple quadratic model of BISM Model 65nm CMOS MOSFETS i.e. parameters like small signal gain ,channel length modulation.
     
 ## Mini Project 2:
     Design of a Amplifier using Cascade of CS Amplifier in 65nm CMOS Node.
